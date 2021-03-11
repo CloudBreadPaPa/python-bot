@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 
 .vscode/
-bt/*out*.tsv
+batch-test/*out*.tsv
